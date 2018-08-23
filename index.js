@@ -4,6 +4,6 @@ var recipes = {
 };
 
 function updateObjectWithKeyAndValue(recipes, prop2, value) {
-  recipes[prop2] = [1], prop2 = [2]}
+  recipes[prop2] = [2];
   return object;
 }
