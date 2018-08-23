@@ -1,1 +1,1 @@
-new Obj {[recipes]};
+new Obj ({[recipes]});
