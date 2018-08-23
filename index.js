@@ -1,1 +1,1 @@
-var Obj = {[recipes]};
+new Obj {[recipes]};
